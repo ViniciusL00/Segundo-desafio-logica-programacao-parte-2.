@@ -1,5 +1,5 @@
-# logica-js-projeto_inicial-2-desafio-2
- Segundo desafio da parte 2 de logica de programação com JavaScript.
+# segundo-desafio-logica-programacao-parte-2.
+ Segundo desafio de logica de programação com JavaScript parte 2.
 
 1- Criar uma função que exibe "Olá, mundo!" no console.
 
